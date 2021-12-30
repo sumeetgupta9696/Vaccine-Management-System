@@ -1,0 +1,26 @@
+.content1 {
+    width: 600px;
+    margin-left: -176px;
+    display: block;
+    background-color: #fff;
+   position: relative;
+    top: 20%;
+    left: 50%;
+    height: auto;
+  }
+  .popupHeader {
+    background: #5cc5a7;
+    color: #fff;
+    padding: 10px;
+    border-bottom: 1px solid #36977b;
+    text-shadow: 0 -1px 0 #318a71;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  .closePopup {
+    float: right;
+    font-size: 28px;
+    margin-top: -3px;
+    color: #fff;
+    text-decoration: none;
+  }
